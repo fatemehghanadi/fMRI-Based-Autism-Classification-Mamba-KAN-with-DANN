@@ -22,6 +22,14 @@ Our model performs comparably to state-of-the-art methods that rely solely on fM
 
 ---
 
+## 📊 Pipeline Overview
+
+The full architecture is illustrated below:
+
+![Pipeline](pipeline.png)
+
+---
+
 ## 📁 Data Description
 
 The dataset used in this project consists of:
