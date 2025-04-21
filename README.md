@@ -48,5 +48,5 @@ Once downloaded, the data should be uploaded into the Colab environment or mount
 ## ⚙️ Runtime Environment
 
 This project is designed to be run in **Google Colab** with access to an **NVIDIA A100 GPU** for optimal performance.  
-Make sure to select the **GPU runtime** from:
+
 
