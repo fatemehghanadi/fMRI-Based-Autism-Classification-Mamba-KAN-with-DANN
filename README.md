@@ -1,4 +1,10 @@
 # Domain-Invariant Autism Classification using DANN, Mamba, and KAN
+📢 This work has been accepted for publication at the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2025).
+
+Citation:
+F. G. Ladani, N. Karimi, B. Mirmahboub, Z. Sobhaninia, S. Shirani, S. Samavi,
+"Using fMRI Time Series and Functional Connectivity for Autism Classification: Integrating Mamba and KAN in Domain-Adversarial Neural Networks,"
+Proceedings of the 47th IEEE EMBC, 2025.
 
 ## 🧠 Method Description
 
